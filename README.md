@@ -143,24 +143,30 @@ Token stored in `localStorage`.
 ## 🖼 Image Uploads
 
 **🔑 Login**
-![alt text](image.png)
+<img width="1356" height="631" alt="image" src="https://github.com/user-attachments/assets/ee98ec68-88d0-4f63-b04c-d20bd9d3736d" />
+
 **📩 OTP Verification**
-![alt text](image-1.png)
+<img width="1359" height="619" alt="image" src="https://github.com/user-attachments/assets/89e30a5b-6507-48a5-b556-2560235a2a56" />
+
 **🏠 Home – Published Products**
-![alt text](image-2.png)
+<img width="1280" height="620" alt="image" src="https://github.com/user-attachments/assets/defb667f-99bc-4bd7-923f-bcfe20218a0e" />
+
 **🏠 Home – Unpublished Products** 
-![alt text](image-3.png)
+<img width="1322" height="668" alt="image" src="https://github.com/user-attachments/assets/5a7b9b5e-ebb6-475b-a2df-e9cb10189b5a" />
+)
 **➕ Add Product**
-![alt text](image-4.png)
+<img width="1350" height="615" alt="image" src="https://github.com/user-attachments/assets/28f60d79-77bf-499a-ac2f-a1667dbec591" />
+
 **✏ Edit Product**
-![alt text](image-5.png)
+<img width="1347" height="622" alt="image" src="https://github.com/user-attachments/assets/a21998db-6446-40f2-9a9c-19ec8666c67f" />
+
 **🗑 Delete Product**
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/edb3af13-a240-4302-a455-30d9583620eb" />
+<img width="1349" height="630" alt="image" src="https://github.com/user-attachments/assets/739da1c6-6761-4e19-9d99-12cb9c312e48" />
+
 
 
 **🚪 Logout**
-![alt text](image-7.png)
-
+<img width="171" height="161" alt="image" src="https://github.com/user-attachments/assets/01e5ff9c-07c4-4250-bf6b-2693014a1b14" />
 
 Make sure folder exists.
 
