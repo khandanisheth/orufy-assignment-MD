@@ -34,67 +34,58 @@ Productr is a full-stack MERN application with image upload, JWT auth, OTP verif
 ---
 
 ## 📁 Folder Structure
+```
 PRODUCTR/
 ├── client/
 │   ├── public/
 │   │   └── logo.svg
-│   │
 │   ├── src/
 │   │   ├── assets/
 │   │   │   └── dummy.txt
-│   │   │
 │   │   ├── components/
 │   │   │   ├── Home.jsx
 │   │   │   ├── Login.jsx
 │   │   │   ├── ProductModal.jsx
 │   │   │   ├── Sidebar.jsx
 │   │   │   └── Topbar.jsx
-│   │   │
 │   │   ├── Css/
 │   │   │   ├── Home.css
 │   │   │   ├── login.css
 │   │   │   ├── ProductModal.css
 │   │   │   └── Products.css
-│   │   │
 │   │   ├── pages/
 │   │   │   ├── Otp.jsx
 │   │   │   ├── Products.jsx
 │   │   │   └── ProtectedRoute.jsx
-│   │   │
 │   │   ├── App.jsx
 │   │   ├── index.css
 │   │   └── main.jsx
-│   │
 │   ├── .gitignore
 │   ├── eslint.config.js
 │   ├── index.html
 │   ├── package.json
 │   ├── package-lock.json
 │   └── vite.config.js
-│
 ├── server/
 │   ├── Controllers/
 │   │   ├── authController.js
 │   │   └── productController.js
-│   │
 │   ├── models/
 │   │   ├── OtpStore.js
 │   │   └── Product.js
-│   │
 │   ├── routes/
 │   │   ├── authRoutes.js
 │   │   └── productRoutes.js
-│   │
 │   ├── uploads/
-│   │   └── .gitkeep  (folder empty rakhne ke liye)
-│   │
+│   │   └── .gitkeep
 │   ├── node_modules/
-│   ├── .env
+│   ├── .env.example
 │   ├── package.json
 │   ├── package-lock.json
 │   └── server.js
-│
 └── README.md
+```
+
 
 
 ###  Install Dependencies
