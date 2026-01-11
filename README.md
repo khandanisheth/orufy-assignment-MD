@@ -1,6 +1,6 @@
 # PRODUCTR - MERN Product Management System
 
-Productr is a full-stack MERN application with image upload, JWT auth, OTP verification, and protected routes.
+Productr turns basic product listing into a secure, scalable full-stack dashboard with OTP login, JWT auth, protected routes, and full CRUD with image support.
 
 ---
 
