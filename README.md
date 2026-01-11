@@ -155,7 +155,9 @@ Token stored in `localStorage`.
 **✏ Edit Product**
 ![alt text](image-5.png)
 **🗑 Delete Product**
-![alt text](image-6.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/edb3af13-a240-4302-a455-30d9583620eb" />
+
+
 **🚪 Logout**
 ![alt text](image-7.png)
 
@@ -202,6 +204,11 @@ Make sure folder exists.
 Feel free to improve UI, backend validations, edit forms, or add new features.
 
 ---
+## 🙌 My Self
+Also, I have built multiple MERN/React full-stack applications similar to this assignment.
+You can check more of my projects on my GitHub profile here:
+👉 https://github.com/khandanisheth
+
 
 ## 📜 License
 Free to use for learning & personal projects.
